@@ -1,4 +1,4 @@
-# Enterprise AI Fraud Detection System
+                                     # Enterprise AI Fraud Detection System
 
 **Batch & real-time financial fraud detection — XGBoost · SHAP Explainability · MLflow · Streamlit**
 
@@ -6,7 +6,7 @@ A production-ready fraud detection platform trained on the full IEEE-CIS dataset
 
 ---
 
-## Tech Stack
+                                                 ## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
